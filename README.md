@@ -12,4 +12,6 @@ max_pooling -> picking the most dense pixel among the 4 pixels
 NB ..There are other approaches to pooling, such as min pooling, which
 takes the smallest pixel value from the pool, and average pooling,
 which takes the overall average value.
-
+# BUILDING A CNN TO DISTINGUISH BETWEEN HORSES AND HUMAN
+USING ImageDataGenerator -> ensure that the directory has 
+the set of the named subdirectories
